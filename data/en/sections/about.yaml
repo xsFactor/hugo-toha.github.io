@@ -8,18 +8,22 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Cybersecurity Reseacher
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Hackerone
+  url: "https://www.hackerone.com"
+  
+  company:
+  name: Inspectiv
+  url: "https://app.inspectiv.com
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate cyber security reseacher and Devescop Engineer with 3 years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -30,7 +34,7 @@ socialLinks:
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/BrainARD-hub"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -38,11 +42,11 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "www.linkedin.com/in/ahmedfactor"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "www.twitter.com/_ahmedhabeeb"
 
 - name: Facebook
   icon: "fab fa-facebook"
