@@ -38,11 +38,11 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "www.linkedin.com/in/ahmedfactor"
+  url: "https://www.linkedin.com/in/ahmedfactor"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "www.twitter.com/_ahmedhabeeb"
+  url: "https://www.twitter.com/_ahmedhabeeb"
 
 - name: Facebook
   icon: "fab fa-facebook"
