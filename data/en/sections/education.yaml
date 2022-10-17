@@ -27,16 +27,16 @@ degrees:
     url: "#"
   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
     url: "#"
-- name: B.Sc. in Computer Science & Engineering
+- name: B.Sc. in Cybersecurity Science
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2018-2023
   institution:
     name: Bayero University Kano
     url: "#"
   grade: #(optional)
     scale: CGPA
-    achieved: 3.5
-    outOf: 4
+    achieved: 4.72
+    outOf: 5
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
@@ -54,11 +54,6 @@ degrees:
     - name: Artificial Intelligent
       achieved: 3.75
       outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
   extracurricularActivities: #(optional)
   - In vitae facilisis est, eget porta sem.
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
