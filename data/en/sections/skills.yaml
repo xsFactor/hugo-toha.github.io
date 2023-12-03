@@ -44,6 +44,6 @@ skills:
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
 
-- name: C++
+- name: Osint
   logo: /images/sections/skills/OSInt-1.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Developing OSINT (Open-Source Intelligence) skills has been invaluable in enhancing our ability to gather and analyze publicly available information. These skills empower us to conduct thorough research, gather insights, and make informed decisions across various domains, contributing to a more effective and strategic approach in our endeavors."
