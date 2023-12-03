@@ -3,18 +3,18 @@ name: "Habeeb Ahmed"
 nickname: "F4cT0r"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/1654694696094.jpeg"
+image: "images/author/blog1.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "ahmedbrainard101@gmail.com"
-  phone: "+2347017002790"
-  github: johndoe
-  linkedin: johndoe
+  phone: "+2348106442141"
+  github: https://github.com/BrainARD-hub
+  linkedin: https://www.linkedin.com/in/ahmedfactor/
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
+  - I am a Security Specialist
+  - I am an Osint geeks
   - I love servers
   - I work on open-source projects
   - I love to work with some fun projects
