@@ -45,6 +45,6 @@ skills:
   summary: "গিট ভিত্তিক ডেভেলপমেন্টের অভিজ্ঞতা আছে। বেশির ভাগ ক্ষেতরেই GitHub ব্যবহার করি তবে GitLab ব্যবহারেরও অভিজ্ঞতা আছে।"
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: "/images/sections/skills/c++.png"
+- name: Osint
+  logo: "/images/sections/skills/osintlogo.png"
   summary: "বেসিক C/C++ প্রোগ্রামিং জানি । প্রব্লেম সল্ভিং এবং কন্টেস্ট এর জন্য ব্যবহার করেছি।"
