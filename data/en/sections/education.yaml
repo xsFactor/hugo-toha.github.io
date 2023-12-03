@@ -32,10 +32,10 @@ degrees:
   timeframe: 2018-2023
   institution:
     name: Bayero University Kano
-    url: "#"
+    url: "https://www.buk.edu.ng/"
   grade: #(optional)
     scale: CGPA
-    achieved: 4.72
+    achieved: 4.73
     outOf: 5
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
@@ -76,9 +76,9 @@ degrees:
   - Pellentesque ut fringilla magna.
 - name: Secondary School Certificate
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2007-2013
   institution:
-    name: JK School of Science
+    name: Frank Unique School of Excellent Studies
   grade: #(optional)
     scale: GPA
     achieved: 4.5
