@@ -45,5 +45,5 @@ skills:
   url: "https://git-scm.com/"
 
 - name: C++
-  logo: /images/sections/skills/c++.png
+  logo: /images/sections/skills/OSInt-1.png
   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
