@@ -45,5 +45,5 @@ skills:
   url: "https://git-scm.com/"
 
 - name: Osint
-  logo: /images/sections/skills/OSInt-1.png
+  logo: /images/sections/skills/osintlogo.png
   summary: "Developing OSINT (Open-Source Intelligence) skills has been invaluable in enhancing our ability to gather and analyze publicly available information. These skills empower us to conduct thorough research, gather insights, and make informed decisions across various domains, contributing to a more effective and strategic approach in our endeavors."
