@@ -51,7 +51,10 @@ degrees:
     - name: Vunerability Assessment
       achieved: 3.5
       outOf: 4
-    - name: Artificial Intelligent
+    - name: Artificial Intelligence
+      achieved: 3.75
+      outOf: 4
+      - name: Cryptography
       achieved: 3.75
       outOf: 4
   extracurricularActivities: #(optional)
@@ -61,7 +64,7 @@ degrees:
   - Participate in CTF competitions, either locally or online.
 - name: Higher Secondary School Certificate
   icon: fa-university
-  timeframe: 2010-2012
+  timeframe: 2007-2013
   institution:
     name: St. Thomas Aquinas College Akure
     url: "#"
@@ -74,12 +77,12 @@ degrees:
   - Facilitate or participate in peer-led study groups to collectively explore challenging math topics and reinforce learning.
   - Volunteer for community service projects or initiatives.
   - Join a sports team or participate in athletics to promote physical fitness.
-- name: Secondary School Certificate
+- name: First School Leaving Certificate
   icon: fa-school
-  timeframe: 2007-2013
+  timeframe: 2001-2007
   institution:
     name: Frank Unique School of Excellent Studies
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+ # grade: #(optional)
+ #   scale: GPA
+ #   achieved: 4.5
+ #   outOf: 5
