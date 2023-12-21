@@ -42,38 +42,38 @@ degrees:
     showGrades: false
     collapseAfter: 3
     courses:
-    - name: Data Structures and Algorithm
+    - name: Risk Management and Enterprise Security
       achieved: 3.75
       outOf: 4
     - name: Network Security
       achieved: 3.80
       outOf: 4
-    - name: Operating System
+    - name: Vunerability Assessment
       achieved: 3.5
       outOf: 4
     - name: Artificial Intelligent
       achieved: 3.75
       outOf: 4
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - Conduct independent security research to identify vulnerabilities, publish findings responsibly, and contribute to the cybersecurity community.
+  - Participate in bug bounty programs on platforms like HackerOne or Bugcrowd.
+  - Get involved in community service or outreach programs that focus on promoting cybersecurity awareness and education.
+  - Participate in CTF competitions, either locally or online.
 - name: Higher Secondary School Certificate
   icon: fa-university
   timeframe: 2010-2012
   institution:
     name: St. Thomas Aquinas College Akure
     url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
+ # grade: #(optional)
+ #   scale: GPA
+ #   achieved: 5
+ #   outOf: 5
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - Participate in regional or national math competitions to challenge myself and showcase my mathematical abilities.
+  - Facilitate or participate in peer-led study groups to collectively explore challenging math topics and reinforce learning.
+  - Volunteer for community service projects or initiatives.
+  - Join a sports team or participate in athletics to promote physical fitness.
 - name: Secondary School Certificate
   icon: fa-school
   timeframe: 2007-2013
