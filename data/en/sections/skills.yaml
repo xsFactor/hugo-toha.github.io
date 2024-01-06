@@ -12,28 +12,28 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Various Penetration Tools
-  logo: /images/sections/skills/kubernetes.png
+  logo: /images/sections/skills/pentool.png
   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+#  url: "https://kubernetes.io/"
 
 - name: Python Development
-  logo: /images/sections/skills/go.png
+  logo: /images/sections/skills/pythonim.jpeg
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+#  url: "https://golang.org/"
 
 - name: Cloud Comp Security
-  logo: /images/sections/skills/cloud.png
+  logo: /images/sections/skills/cloudcompsec.jpeg
   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
+- name: WebApps Testing Tools
+  logo: /images/sections/skills/webappim.jpeg
   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+#  url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
+- name: GRC
+  logo: /images/sections/skills/Grcim.png
   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+#  url: "https://prometheus.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
