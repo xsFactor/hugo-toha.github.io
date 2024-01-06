@@ -11,17 +11,17 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
+- name: Various Penetration Tools
   logo: /images/sections/skills/kubernetes.png
   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
   url: "https://kubernetes.io/"
 
-- name: Go Development
+- name: Python Development
   logo: /images/sections/skills/go.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   url: "https://golang.org/"
 
-- name: Cloud Computing
+- name: Cloud Comp Security
   logo: /images/sections/skills/cloud.png
   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
 
@@ -46,4 +46,4 @@ skills:
 
 - name: Osint
   logo: /images/sections/skills/osintlogo.png
-  summary: "Developing OSINT (Open-Source Intelligence) skills has been invaluable in enhancing our ability to gather and analyze publicly available information. These skills empower us to conduct thorough research, gather insights, and make informed decisions across various domains, contributing to a more effective and strategic approach in our endeavors."
+  summary: "My OSINT skills empower me to gather and analyze public information effectively, contributing to informed decisions and a strategic approach in various domains."
