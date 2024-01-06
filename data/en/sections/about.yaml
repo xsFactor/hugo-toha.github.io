@@ -61,7 +61,7 @@ badges:
 - type: certification
   name: Certified AppSec Practitioner (CAP)
   url: "https://drive.google.com/file/d/1YsKsn0vYoA58quNJnG_M3bSfJiRRcShq/view?usp=sharing"
-  badge: "assets/images/sections/achievements/capsecimage.png"
+  badge: "https://secops.group/wp-content/uploads/2023/01/cert-stamp-2.png"
 
 - type: certification
   name: IBM Cybersecurity Intro
