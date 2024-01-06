@@ -19,7 +19,7 @@ designation: Cybersecurity Specialist
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'As a Cybersecurity Specialist and Trainer with 3+ years of hands-on experience, I specialize in OSINT, security awareness, and Red Team Engagement. Proven expertise in EDR optimization, incident response leadership, and security architecture enhancement. Skilled in collaboration, user-centric training, and continuous improvement. Future goals include advanced certifications, leadership, international contributions, mentorship, policy influence, and entrepreneurship in cybersecurity. Aspiring to be a thought leader, making a meaningful impact in protecting organizations from cyber threats.'
+summary: 'As a Cybersecurity Specialist and Trainer with 3+ years of hands-on experience, I specialize in OSINT, security awareness, and Purple Team Engagement. Proven expertise in EDR optimization, incident response leadership, and security architecture enhancement. Skilled in collaboration, user-centric training, and continuous improvement. Future goals include advanced certifications, leadership, international contributions, mentorship, policy influence, and entrepreneurship in cybersecurity. Aspiring to be a thought leader, making a meaningful impact in protecting organizations from cyber threats.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -62,7 +62,7 @@ badges:
 - type: certification
   name: ISO/IEC 27001 Information Security Associate™
   url: "https://www.skillfront.com/certifications/SkillFront-SFE0165c1dc91dfb-68227743799234.pdf"
-  badge: "https://www.skillfront.com/badge-files/68227743799234.png"
+  badge: "images/author/Screen Shot 2024-01-06 at 5.13.17 PM.png"
 
 - type: certification
   name: API Penetration Testing
