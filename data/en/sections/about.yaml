@@ -59,9 +59,9 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: Certified AppSec Practitioner (CAP)
+  url: "https://drive.google.com/file/d/1YsKsn0vYoA58quNJnG_M3bSfJiRRcShq/view?usp=sharing"
+  badge: "assets/images/sections/achievements/capsecimage.png"
 
 - type: certification
   name: IBM Cybersecurity Intro
