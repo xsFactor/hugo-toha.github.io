@@ -8,18 +8,18 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Cybersecurity Reseacher
+designation: Cybersecurity Specialist
 # your company information
-company:
-  name: Hackerone
-  url: "https://www.hackerone.com"
+#company:
+#  name: Hackerone
+#  url: "https://www.hackerone.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'As a Cybersecurity Specialist with expertise in Open-Source Intelligence (OSINT), strategic security awareness initiatives, and Red Team Engagement, I have a proven track record of optimizing Endpoint Detection and Response (EDR) solutions and leading incident response efforts. I am skilled in enhancing security architecture, fostering collaboration, and developing user-centric security training. I am committed to continuous improvement and staying up-to-date with the latest cybersecurity innovations. In the future, I aim to enhance my technical expertise through advanced certifications, progress into a leadership role, and contribute to international cybersecurity efforts. I also aspire to provide mentorship, influence cybersecurity policies, and explore entrepreneurship opportunities in the field. My goal is to be a thought leader in cybersecurity and make a meaningful impact in protecting organizations from cyber threats.'
+summary: 'As a Cybersecurity Specialist and Trainer with 3+ years of hands-on experience, I specialize in OSINT, security awareness, and Red Team Engagement. Proven expertise in EDR optimization, incident response leadership, and security architecture enhancement. Skilled in collaboration, user-centric training, and continuous improvement. Future goals include advanced certifications, leadership, international contributions, mentorship, policy influence, and entrepreneurship in cybersecurity. Aspiring to be a thought leader, making a meaningful impact in protecting organizations from cyber threats.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -31,10 +31,6 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://www.github.com/BrainARD-hub"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
@@ -64,9 +60,9 @@ badges:
   badge: "https://secops.group/wp-content/uploads/2023/01/cert-stamp-2.png"
 
 - type: certification
-  name: IBM Cybersecurity Intro
-  url: "https://www.credly.com/badges/169f3d83-557c-4cd7-8321-18f52d2e0aba"
-  badge: "https://images.credly.com/size/340x340/images/2e42dc74-b988-4de5-af5e-ddb9ff49d517/IDN_Emerging_Tech_-_Cybersecurity_Intro.png"
+  name: ISO/IEC 27001 Information Security Associate™
+  url: "https://www.skillfront.com/certifications/SkillFront-SFE0165c1dc91dfb-68227743799234.pdf"
+  badge: "https://www.skillfront.com/badge-files/68227743799234.png"
 
 - type: certification
   name: API Penetration Testing
