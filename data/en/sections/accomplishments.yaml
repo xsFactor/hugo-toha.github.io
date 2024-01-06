@@ -20,27 +20,27 @@ accomplishments:
   certificateURL: "https://example.com"
 
 - name: Cyber Threat Hunting Training
-  timeline: "Jun 2020 - Jan 2021"
+  timeline: "December 1st, 2023"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
+    name: Active Countermeasures
+    url: https://www.activecountermeasures.com/hunt-training/
   courseOverview: "This training covers how to leverage network and host data to perform a cyber threat hunt. It focuses on processes and techniques that can be used to protect: Desktops, Servers, Network gear, IIoT, and BYOD system."
   certificateURL: "https://issuer.gutenbergcerts.com/pdf/20230119-ACTI-kb00_dc37cd02-1aab-4c63-a749-b258b502092f.pdf"
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
-  organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
-
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: Applied Ethical Hacking and Rules of Engagement
+  timeline: "July 14th, 2021"
   organization:
     name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
+    url: https://www.udemy.com/course/applied-ethical-hacking-and-rules-of-engagement/
+  courseOverview: "This 40-hour course covers Cyber Security, Penetration Testing, Python Hacking, Kali Linux, and Wazuh SIEM on Elastic Stack. It provides expertise in ethical hacking, penetration testing, red-teaming, SIEM setup, threat hunting, Python scripting, and Linux (Kali Linux and Parrot OS). I gained practical skills in reconnaissance, scanning, and defense against real-world attacks, emphasizing hands-on experience in the cybersecurity field."
+  certificateURL: "https://www.udemy.com/certificate/UC-bfdacf8d-26a5-4fb7-9b18-826049f06c8c/"
+
+- name: Ethical Hacking From A-Z: Beginner To Expert Course
+  timeline: "November 5th, 2020"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com/course/learn-ethical-hacking-from-a-z-beginner-to-expert-course/
+  courseOverview: "The 12-hour course is a comprehensive guide to ethical hacking, covering networking, lab setup, Linux basics, anonymity online, network hacking, gaining access, server-side/client-side attacks, post-exploitation, and website hacking using Kali Linux. Designed for beginners, it combines theory with practical examples for mastering ethical hacking and security."
+  certificateURL: "https://www.udemy.com/certificate/UC-dfee992c-34fb-4d60-a488-da5e67bf3286/"
  
 
