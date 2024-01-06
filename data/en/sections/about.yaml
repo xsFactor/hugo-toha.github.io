@@ -64,9 +64,9 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/badges/637ae790-9950-4fbc-8023-3cccb73b7df5"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: IBM Cybersecurity Intro
+  url: "https://www.credly.com/badges/169f3d83-557c-4cd7-8321-18f52d2e0aba"
+  badge: "https://images.credly.com/size/340x340/images/2e42dc74-b988-4de5-af5e-ddb9ff49d517/IDN_Emerging_Tech_-_Cybersecurity_Intro.png"
 
 - type: certification
   name: API Penetration Testing
