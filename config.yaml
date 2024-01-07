@@ -11,6 +11,7 @@ languages:
     languageName: English
     weight: 1
   bn:
+    disabled: true
     languageName: বাংলা
     weight: 3
 
