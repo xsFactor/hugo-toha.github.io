@@ -13,7 +13,7 @@ section:
 skills:
 - name: Various Penetration Tools
   logo: /images/sections/skills/pentool.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "Proficient in deploying, managing, and utilizing diverse Red Team tools to assess assets and identify vulnerabilities. Experienced in automating testing tools for efficient and thorough assessments."
 #  url: "https://kubernetes.io/"
 
 - name: Python Development
@@ -21,18 +21,18 @@ skills:
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
 #  url: "https://golang.org/"
 
-- name: Cloud Comp Security
+- name: SIEM Technology
   logo: /images/sections/skills/cloudcompsec.jpeg
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Skilled in diverse SIEM tech for comprehensive security orchestration, automating threat monitoring, detection, and response in on-premises and cloud environments"
 
-- name: WebApps Testing Tools
+- name: WebApps Security
   logo: /images/sections/skills/webappim.jpeg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "Experienced in web application security through bug hunting programs, adept at addressing various security flaws."
 #  url: "https://www.docker.com/"
 
 - name: GRC
   logo: /images/sections/skills/Grcim.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  summary: "Hands-on experience in GRC practices, proficient in implementing strategies for effective organizational governance, risk management, and compliance with industry regulations."
 #  url: "https://prometheus.io/"
 
 - name: Linux
@@ -47,3 +47,7 @@ skills:
 - name: Osint
   logo: /images/sections/skills/osintlogo.png
   summary: "My OSINT skills empower me to gather and analyze public information effectively, contributing to informed decisions and a strategic approach in various domains."
+
+- name: Leadership and Enterprenueship Skills
+  logo: /images/sections/skills/leadershipim.jpeg
+  summary: "Demonstrates strong leadership and entrepreneurship skills, driving innovation, fostering collaboration, and achieving strategic goals."
