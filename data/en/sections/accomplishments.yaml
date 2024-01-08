@@ -43,4 +43,11 @@ accomplishments:
   courseOverview: The 12-hour course is a comprehensive guide to ethical hacking, covering networking, lab setup, Linux basics, anonymity online, network hacking, gaining access, server-side/client-side attacks, post-exploitation, and website hacking using Kali Linux. Designed for beginners, it combines theory with practical examples for mastering ethical hacking and security.
   certificateURL: "https://www.udemy.com/certificate/UC-dfee992c-34fb-4d60-a488-da5e67bf3286/"
  
-
+- name: Open-Source Intelligence (OSINT)
+  timeline: "January 9th, 2024"
+  organization:
+    name: Basel Institute on Governance
+    url: https://learn.baselgovernance.org/enrol/index.php?id=79
+  courseOverview: The 5-hour OSINT course at Basel Institute on Governance has significantly enhanced my knowledge in delving deeper into information related to crime organizations and individuals engaged in criminal activities.
+  certificateURL: "https://drive.google.com/file/d/1b34bJFSBv97yOgJzB5IsfDWA4tEgqt-k/view"
+ 
