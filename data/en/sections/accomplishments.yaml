@@ -16,7 +16,7 @@ accomplishments:
   organization:
     name: Linux Foundation
     url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
+  courseOverview: Course Duration = 5 hour
   certificateURL: "https://example.com"
 
 - name: Cyber Threat Hunting Training
@@ -24,7 +24,7 @@ accomplishments:
   organization:
     name: Active Countermeasures
     url: https://www.activecountermeasures.com/hunt-training/
-  courseOverview: "This training covers how to leverage network and host data to perform a cyber threat hunt. It focuses on processes and techniques that can be used to protect: Desktops, Servers, Network gear, IIoT, and BYOD system."
+  courseOverview: "Course Duration = 5 hour"
   certificateURL: "https://issuer.gutenbergcerts.com/pdf/20230119-ACTI-kb00_dc37cd02-1aab-4c63-a749-b258b502092f.pdf"
 
 - name: Applied Ethical Hacking and Rules of Engagement
@@ -32,7 +32,7 @@ accomplishments:
   organization:
     name: Udemy
     url: https://www.udemy.com/course/applied-ethical-hacking-and-rules-of-engagement
-  courseOverview: This 40-hour course covers Cyber Security, Penetration Testing, Python Hacking, Kali Linux, and Wazuh SIEM on Elastic Stack. It provides expertise in ethical hacking, penetration testing, red-teaming, SIEM setup, threat hunting, Python scripting, and Linux (Kali Linux and Parrot OS). I gained practical skills in reconnaissance, scanning, and defense against real-world attacks, emphasizing hands-on experience in the cybersecurity field.
+  courseOverview: Course Duration = 40 hour
   certificateURL: "https://www.udemy.com/certificate/UC-bfdacf8d-26a5-4fb7-9b18-826049f06c8c/"
 
 - name: Ethical Hacking From A-Z Beginner To Expert Course
@@ -40,7 +40,7 @@ accomplishments:
   organization:
     name: Udemy
     url: https://www.udemy.com/course/learn-ethical-hacking-from-a-z-beginner-to-expert-course
-  courseOverview: The 12-hour course is a comprehensive guide to ethical hacking, covering networking, lab setup, Linux basics, anonymity online, network hacking, gaining access, server-side/client-side attacks, post-exploitation, and website hacking using Kali Linux. Designed for beginners, it combines theory with practical examples for mastering ethical hacking and security.
+  courseOverview: Course Duration = 12 hour
   certificateURL: "https://www.udemy.com/certificate/UC-dfee992c-34fb-4d60-a488-da5e67bf3286/"
  
 - name: Open-Source Intelligence (OSINT)
