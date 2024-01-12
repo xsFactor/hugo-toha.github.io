@@ -13,7 +13,7 @@ experiences:
 - company:
     name: HackerOne
     url: "https://hackerone.com//" 
-    location: Abuja, Nigeria
+    location: San Francisco, California
     overview: Hackerone leverage human ingenuity to pinpoint the most critical security flaws across your attack surface to outmatch cybercriminals.
   positions:
   - designation: Security Researcher (Freelance) 
@@ -50,13 +50,13 @@ experiences:
     name: Techka
     url: "https://www.linkedin.com/company/officialtechka/"
     location: Kano, Nigeria
-    overview: Techka unites students and enthusiasts, fostering professional growth through mentorship, skill development, networking, and collaborative opportunities.
+    overview: Techka, a university community based unites students and enthusiasts, fostering professional growth through mentorship, skill development, networking, and collaborative opportunities.
   positions:
   - designation: Co-Founder
     start: Sept 2023
     #end: May 2017
     responsibilities:
-    - As the Co-Founder of Techka, your role involves providing visionary leadership, overseeing day-to-day operations, building and leading a diverse team, cultivating strategic partnerships
+    - As the Co-Founder of Techka, my role involves providing visionary leadership, overseeing day-to-day operations, building and leading a diverse team, cultivating strategic partnerships
 
 - company:
     name: Nigerian Communication Sattelite Limited (NIGCOMSAT).
@@ -82,7 +82,7 @@ experiences:
     start: Jan 2022
     #end: Jul 2023
     responsibilities:
-    - Conducted interactive cybersecurity tutoring sessions for over 70 students, adapting methods to virtual platforms for diverse regions.
-    - Mentored and guided 20 students from the beginning of their cybersecurity journey.
+    - Conducted interactive cybersecurity tutoring sessions for over 50 students, adapting methods to virtual platforms for diverse regions.
+    - Mentored and guided over 15 students from the beginning of their cybersecurity journey.
     - Developed personalized learning plans, emphasizing hands-on experiences and practical applications.
     - Established a proactive feedback system, enhancing curriculum with the latest industry trends.
