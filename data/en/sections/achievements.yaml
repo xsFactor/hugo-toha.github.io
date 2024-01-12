@@ -13,9 +13,9 @@ achievements:
 - title: MTN Scholar
   image: /images/sections/achievements/mtn.png
   summary: MTN Scholar in the 2021.
-#- title: Champion
-#  image: /images/sections/achievements/sport.jpg
-#  summary: Champion in cycling inter-city cycling championship 2020.
+- title: Wazuh Learning Team
+  image: /images/sections/achievements/wazuh.png
+  summary: The Country Admin Wazuh Learning Team (Nigeria).
 #- title: Graduation
 #  image: /images/sections/achievements/graduation-cap.jpg
 #  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
