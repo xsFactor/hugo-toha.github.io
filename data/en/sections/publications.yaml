@@ -20,7 +20,7 @@ buttons:
   filter: "security"
 
 # your publications
-publications:
+miscs:
 - title: An Example Paper on Machine Learning
   publishedIn:
     name: 2020 IEEE Region Symposium (TENSYMP)
