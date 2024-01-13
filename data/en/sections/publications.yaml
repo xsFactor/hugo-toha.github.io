@@ -1,7 +1,7 @@
 # section information
 section:
-  name: Publications
-  id: publications
+  name: Misc
+  id: Mics
   enable: true
   weight: 6
   showOnNavbar: true
@@ -14,8 +14,8 @@ buttons:
   filter: "all"
 - name: "Machine Learning"
   filter: "machinelearning"
-- name: "Image Processing"
-  filter: "image-processing"
+- name: "Courses"
+  filter: "Courses"
 - name: Security
   filter: "security"
 
