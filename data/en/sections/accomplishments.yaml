@@ -11,20 +11,20 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
+- name: TRANSFORMING NIGERIAN YOUTHS PROGRAM (Enterprenuerial and Managerial)
   timeline: "March 2018 - March 2019"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: Course Duration = 5 hour
-  certificateURL: "https://example.com"
+    name: Mastercard, Pan Atlantic University
+    url: https://mastercardfdn.org/wp-content/uploads/2020/09/TNY-Program-6.png
+  courseOverview: Course Duration = 2 Months
+  certificateURL: "https://drive.google.com/file/d/1CwRmQz2f8MpvwJJ9Vkniud3jNIxtfLQ1/view?usp=sharing"
 
 - name: Cyber Threat Hunting Training
   timeline: "December 1st, 2023"
   organization:
     name: Active Countermeasures
     url: https://www.activecountermeasures.com/hunt-training/
-  courseOverview: "Course Duration = 5 hour"
+  courseOverview: "Course Duration = 6 hour"
   certificateURL: "https://issuer.gutenbergcerts.com/pdf/20230119-ACTI-kb00_dc37cd02-1aab-4c63-a749-b258b502092f.pdf"
 
 - name: Applied Ethical Hacking and Rules of Engagement
