@@ -1,12 +1,12 @@
 # section information
 section:
-  name: Misc
-  id: Mics
-  enable: true
+  name: Publications
+  id: Publications
+  enable: false
   weight: 6
   showOnNavbar: true
   # Can optionally hide the title in sections
-  hideTitle: true
+  #hideTitle: true
 
 # filter buttons
 buttons:
@@ -20,7 +20,7 @@ buttons:
   filter: "security"
 
 # your publications
-miscs:
+publications:
 - title: An Example Paper on Machine Learning
   publishedIn:
     name: 2020 IEEE Region Symposium (TENSYMP)
