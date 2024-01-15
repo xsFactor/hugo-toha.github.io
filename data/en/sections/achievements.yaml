@@ -16,9 +16,9 @@ achievements:
 - title: Wazuh Learning Team
   image: /images/sections/achievements/wazuh.png
   summary: The Country Admin Wazuh Learning Team (Nigeria).
-#- title: Graduation
-#  image: /images/sections/achievements/graduation-cap.jpg
-#  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
 - title: Graduation
   image: /images/sections/achievements/panAfrica.pdf
   summary: Earned a Diploma in Entrepreneurial and Managerial Studies from the Enterprise Development Centre (EDC) at Pan-Atlantic University, sponsored by Mastercard.
+#- title: Graduation
+#  image: /images/sections/achievements/graduation-cap.jpg
+#  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
