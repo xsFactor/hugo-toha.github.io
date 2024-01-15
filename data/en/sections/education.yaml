@@ -62,6 +62,25 @@ degrees:
   - Participate in bug bounty programs on platforms like HackerOne or Bugcrowd.
   - Get involved in community service or outreach programs that focus on promoting cybersecurity awareness and education.
   - Participate in CTF competitions, either locally or online.
+
+- name: Entrepreneurial and Managerial
+  icon: fa-university
+  timeframe: 2023
+  institution:
+    name: Enterprise Development Centre (EDC) of the Pan-Atlantic University
+    url: "#"
+ # grade: #(optional)
+ #   scale: GPA
+ #   achieved: 5
+ #   outOf: 5
+  extracurricularActivities: #(optional)
+  - Entrepreneurship Fundamentals.
+  - Business, Financial, and Operations Management.
+  - Marketing and Sales.
+  - Networking and Relationship Building.
+  - Leadership Skills.
+
+  
 - name: Higher Secondary School Certificate
   icon: fa-university
   timeframe: 2007-2013
@@ -77,12 +96,5 @@ degrees:
   - Facilitate or participate in peer-led study groups to collectively explore challenging math topics and reinforce learning.
   - Volunteer for community service projects or initiatives.
   - Join a sports team or participate in athletics to promote physical fitness.
-- name: First School Leaving Certificate
-  icon: fa-school
-  timeframe: 2001-2007
-  institution:
-    name: Frank Unique School of Excellent Studies
- # grade: #(optional)
- #   scale: GPA
- #   achieved: 4.5
- #   outOf: 5
+
+
