@@ -69,3 +69,10 @@ projects:
   url: "https://f4ct0r.notion.site/f4ct0r/OSINT-e739dc8c2b48493db465687f91b6f8e6"
   summary: As the tutor for the ongoing Footright two-month OSINT training, I am leading participants through a comprehensive program focused on enhancing investigative skills. The training included engaging discussions, hands-on exercises, and real-world applications, equipping participants for success in OSINT.
   tags: ["professional"]
+
+- name: Techka BugHunting Pyhsical Training
+  role: Tutor
+  timeline: "Nov 2023"
+  url: "https://f4ct0r.notion.site/Reconnaissance-a5a599722afb4c0aa79d500b8e9ffe04"
+  summary: As a tutor for the Techka three-week physical web pentesting training in partnership with TrybeOne at BUK campus, I guided participants through an extensive reconnaissance process.
+  tags: ["professional"]
