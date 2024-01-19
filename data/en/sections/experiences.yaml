@@ -1,12 +1,12 @@
 # section information
 section:
-  name: Experiences
-  id: experiences
+  name: Procr
+  id: procr
   enable: true
-  weight: 3
+  weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # filter buttons
 buttons:
@@ -19,95 +19,60 @@ buttons:
 - name: Hobby
   filter: "hobby"
 
-# Your experiences
-experiences:
-- company:
-    name: HackerOne
-    url: "https://hackerone.com//" 
-    location: San Francisco, California
-    overview: Hackerone leverage human ingenuity to pinpoint the most critical security flaws across your attack surface to outmatch cybercriminals.
-  positions:
-  - designation: Security Researcher (Freelance) 
-    start: Nov 2022
-    #end: Jul 2023
-    responsibilities:
-    - Working with businesses and organizations to identify and resolve security vulnerabilities and weaknesses affecting digital assets and computer networks.
+# your projects
+projects:
+- name: Favihash
+  logo: /images/sections/projects/favihash.png
+  role: Developer
+  timeline: "March 2023"
+  repo: https://github.com/BrainARD-hub/favihash # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Favihash is a portable and modular python3 tool designed to quickly generate the favicon hash of a target domain to be use on shodan or binaryedge to gather more assets of a target.
+  tags: ["professional", "Hobby"]
 
-- company:
-    name: Footright LLC.
-    url: "https://4ootright.com/"
-    location: Texas USA
-    # company overview
-    overview: Footright Org. We help business owners to establish their goals and identify strategies for improved business operations.
-  positions:
-  - designation: Information Security Specialist (Contract)
-    start: Feb 2022
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Evaluate and recommend security solutions that align with the organization needs and goals.
-    - Work with Businesses and Organization to pinpoint the most critical security flaws.
+#- name: Tensorflow
+ # logo: /images/sections/projects/tensorflow.png
+  #role: Developer
+  #timeline: "Jun 2018 - Present"
+  #repo: https://github.com/tensorflow/tensorflow
+  #url: ""
+  #summary: An Open Source Machine Learning Framework for Everyone.
+  #tags: ["professional", "machine-learning"]
 
- # - designation: Junior Software Engineer
- #   start: Nov 2017
- #   end: Oct 2019
- #   responsibilities:
- #   - Implement and test xyz feature for abc tool.
- #   - Support client for abc tool.
- #   - Learn k,d,w technology for xyz.
+- name: A sample of siwes report
+  role: Owner
+  timeline: "Nov 2023"
+  url: "https://docs.google.com/document/d/1pUdKRa-LQRRUTSl1D5Ei5A7nChdublrW3HUIq4dXoGg/edit?usp=sharing"
+  summary: I explored Networking, EDR, and Ethical Hacking, gaining hands-on experience in configuring and maintaining robust network infrastructures alongside seasoned professionals.
+  tags: ["academic","siwes"]
 
-- company:
-    name: Techka
-    url: "https://www.linkedin.com/company/officialtechka/"
-    location: Kano, Nigeria
-    overview: Techka, a university community based unites students and enthusiasts, fostering professional growth through mentorship, skill development, networking, and collaborative opportunities.
-  positions:
-  - designation: Co-Founder
-    start: Sept 2023
-    #end: May 2017
-    responsibilities:
-    - As the Co-Founder of Techka, my role involves providing visionary leadership, overseeing day-to-day operations, building and leading a diverse team, cultivating strategic partnerships
+- name: Split Print
+  logo: /images/sections/projects/no-code.png
+  role: Developer
+  timeline: "April 2023"
+  repo: https://github.com/BrainARD-hub/Split_Print
+  #url: ""
+  summary: It helps to split file.
+  tags: ["hobby", "fun"]
 
-- company:
-    name: Nigerian Communication Sattelite Limited (NIGCOMSAT).
-    url: "https://nigcomsat.gov.ng/" 
-    location: Abuja, Nigeria
-    overview: NIGCOMSAT is the leading satellite communication solutions provider in Nigeria and Africa.
-  positions:
-  - designation: Security Analyst (Intern) 
-    start: Dec 2022
-    end: Jul 2023
-    responsibilities:
-    - Provide ongoing training and awareness programs to educate employees about security risks and best practices.
-    - Identify and address software and system vulnerabilities through regular vulnerability assessments.
-    - Ensure that the organization complies with relevant industry regulations and standards
+- name: Host header Injection
+  logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "Jun 2023"
+  repo: https://github.com/BrainARD-hub/Host-header-Injection
+  summary: Wordlist use to bruteforce the host header for 403 bypass or muisconfiguration in authentication.
+  tags: ["Payload","bug","professional"]
 
-- company:
-    name: Footright Organizaton.
-    url: "https://www.linkedin.com/company/footright-organization/"
-    location: USA / Nigeria
-    overview: A non-profit organization that is focused on helping young Africans acquire world-class ICT knowledge through continued partnership with relevant individuals, organizations and institutions to drive our goals.
-  positions:
-  - designation: CyberSecurity Tutor (Volunteering)
-    start: Jan 2022
-    #end: Jul 2023
-    responsibilities:
-    - Conducted interactive cybersecurity tutoring sessions for over 50 students, adapting methods to virtual platforms for diverse regions.
-    - Mentored and guided over 15 students from the beginning of their cybersecurity journey.
-    - Developed personalized learning plans, emphasizing hands-on experiences and practical applications.
-    - Established a proactive feedback system, enhancing curriculum with the latest industry trends.
+- name: Footright Two-month OSINT Training
+  role: Tutor
+  timeline: "Dec 2023"
+  url: "https://f4ct0r.notion.site/f4ct0r/OSINT-e739dc8c2b48493db465687f91b6f8e6"
+  summary: As the tutor for Footright two-month OSINT training, I lead participants in enhancing investigative skills through engaging discussions and practical exercises, preparing them for success in OSINT.
+  tags: ["professional"]
 
-- company:
-    name: AntiScam Working Group (ASWG).
-    url: "#"
-    location: Nigeria
-    overview: ASWG is a collaborative effort targeting online scams and fraud. Comprising experts and organizations, it aims to raise awareness, detect scam patterns, and implement preventive measures for a safer digital space.
-  positions:
-  - designation: Founder 
-    start: May 2023
-    #end: Jul 2023
-    responsibilities:
-    - Raising public awareness through educational campaigns to prevent falling victim to scams.
-    - Building collaborations and partnerships with organizations, law enforcement, and industry experts to advocate for policy changes and regulations to address the root causes of scams and fraud.
-  
+- name: Techka BugHunting Pyhsical Training
+  role: Tutor
+  timeline: "Nov 2023"
+  url: "https://f4ct0r.notion.site/Reconnaissance-a5a599722afb4c0aa79d500b8e9ffe04"
+  summary: As a tutor for the Techka three-week physical web pentesting training in partnership with TrybeOne at BUK campus, I guided participants through an extensive reconnaissance process.
+  tags: ["professional"]
